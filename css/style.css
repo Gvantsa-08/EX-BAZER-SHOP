@@ -1,0 +1,56 @@
+/**/
+.float-l{
+	float: left;
+}
+.float-r{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+/*header*/
+.logo{
+	margin-left:140px ;
+	margin-top: 5px;
+	margin-right: 123px;
+}
+.nav-li{
+	margin-right: 51px;
+	margin-top: 48px;
+	vertical-align: top;
+}
+.nav-a{
+	color: #181C28;
+	font-size: 16px;
+}
+.header-wraper{
+    height:120px;
+    width: 100%;
+    background-color: #FFFFFF;
+    position: fixed;
+}
+.img-box{
+	position: relative;
+}
+.main-img{
+	margin-top: 120px;
+	width:1600px ;
+	height: 382px;
+}
+.img-text{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%) ;
+	width: 274px;
+	height: 87px;
+}
+.t1{
+	font-size: 22px;
+	color: #FFFFFF;
+}
+.t2{
+	font-size: 48px;
+	color: #FFFFFF;
+	margin-left: 35px;
+}
