@@ -29,6 +29,7 @@
     background-color: #FFFFFF;
     position: fixed;
 }
+/*section1*/
 .img-box{
 	position: relative;
 }
@@ -53,4 +54,79 @@
 	font-size: 48px;
 	color: #FFFFFF;
 	margin-left: 35px;
+}
+/*finished section2*/
+/*secrtion 2 posts*/
+.container-line1{
+	width:1325px ;
+	margin: 0 auto;
+
+}
+.box-1{
+	width: 636px;
+}
+.box-2{
+	width: 636px;
+}
+.container-line2{
+	width:1324px ;
+	margin: 0 auto;
+}
+.section-title{
+	font-size: 22px;
+	color: #FF7A00;
+	margin-top: 83px;
+	margin-left: 172px;
+	margin-bottom: 83px;
+}
+.button{
+	width: 190px;
+	height: 70px;
+	background-color: #FF7A00;
+	margin: 0 auto;
+	margin-top: 67px;
+}
+.load-more{
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-left: 48px;
+	padding-top: 23px;
+}
+/*finish section*/
+/*footer*/
+.footer-img{
+	width: 1600px;
+	height: 266px;
+	margin-top:134px ;
+	margin-bottom: 81px;
+}
+.footer-cotainer{
+	width: 1325px;
+	height: 214px;
+    margin: 0 auto;
+}
+.li-title{
+	font-size: 24px;
+	color: #282828;
+
+}
+.list2{
+	margin-left:210px;
+	margin-right:252px;
+}
+.card-1{
+	margin-top: 15px;
+}
+.card-2{
+	margin-top: 26px;
+}
+.card-3{
+	margin-top: 26px;
+}
+.copyright{
+	color: #A4A4A4;
+	font-size: 14px;
+	margin-top: 47px;
+	margin-left: 1167px;
+	margin-bottom: 139px;
 }
