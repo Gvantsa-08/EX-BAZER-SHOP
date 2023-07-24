@@ -94,6 +94,15 @@
 	color:#FF7A00 ;
 	font-size: 14px;
 }
+.post-a::after{
+	content:" ";
+    width: 47px;
+    height: 4px;
+    display: inline-block;
+    background-color: #FF7A00;
+    margin-left: 20px;
+    vertical-align: middle;
+}
 .img-marg{
 	margin-top: 58px;
 }
